@@ -25,4 +25,3 @@ If you’re serious about getting started, don’t worry about enrolling into an
 **Disclosure:** This is brought to you by the Entrepreneur Partner Studio. Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, we may get a small share of the revenue from the sale from our commerce partners.
 <br>
 Source: [mavenlink](https://blog.mavenlink.com/)
-Edit by Huynh
