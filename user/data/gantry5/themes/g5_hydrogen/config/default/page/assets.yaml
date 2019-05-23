@@ -1,0 +1,13 @@
+favicon: 'gantry-media://favicon.png'
+touchicon: 'gantry-media://favicon.png'
+css:
+  -
+    name: 'New item'
+javascript:
+  -
+    location: 'gantry-assets://js/savetheenvironment.js'
+    inline: ''
+    in_footer: '0'
+    extra: {  }
+    priority: '0'
+    name: 'Save the environment'

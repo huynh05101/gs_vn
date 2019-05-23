@@ -1,0 +1,9 @@
+enabled: '1'
+url: 'http://hethongxanh.vn'
+target: _self
+image: 'gantry-media://gs-logo.png'
+height: ''
+link: '1'
+svg: ''
+text: 'Green System'
+class: logo404

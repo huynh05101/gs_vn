@@ -1,0 +1,20 @@
+state: enabled
+email: info@greensystem.vn
+fullname: Admin
+title: Administrator
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$7BndF40VCzLy/lgLTlOv3.wTrV7xjp0C.e87bnAaks1qiSAPJdj96
+language: en
+twofa_enabled: false
+twofa_secret: CD56CS5GPCPO3EEFV45W6OWKCXGUIJFQ
+avatar:
+  user/accounts/avatars/EdOZ7Wx314q6Sh0.png:
+    name: EdOZ7Wx314q6Sh0.png
+    type: image/png
+    size: 2500
+    path: user/accounts/avatars/EdOZ7Wx314q6Sh0.png

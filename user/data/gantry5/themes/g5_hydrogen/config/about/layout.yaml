@@ -1,0 +1,57 @@
+version: 2
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1557546018
+layout:
+  /header/:
+    -
+      - 'logo-7676 20'
+      - 'position-header 65'
+      - 'login-4568 15'
+  /navigation/:
+    -
+      - menu-6775
+  /main/:
+    -
+      - position-breadcrumbs
+    -
+      - system-messages-9019
+    -
+      - system-content-5696
+  /footer/:
+    -
+      - position-footer
+    -
+      - 'copyright-9804 40'
+      - 'spacer-1729 30'
+      - 'branding-2995 30'
+  offcanvas:
+    -
+      - mobile-menu-6101
+structure:
+  header:
+    attributes:
+      boxed: ''
+  navigation:
+    type: section
+    attributes:
+      boxed: ''
+  main:
+    attributes:
+      boxed: ''
+  footer:
+    attributes:
+      boxed: ''
+content:
+  position-header:
+    attributes:
+      key: header
+  login-4568:
+    title: 'Đăng nhập'
+  position-breadcrumbs:
+    attributes:
+      key: breadcrumbs
+  position-footer:
+    attributes:
+      key: footer

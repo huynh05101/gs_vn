@@ -1,0 +1,92 @@
+version: 2
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1557546018
+layout:
+  /header/:
+    -
+      - position-header
+  /navigation/:
+    -
+      - branding-8247
+    -
+      - 'logo-5273 26'
+      - 'menu-5398 74'
+  /main/:
+    -
+      - position-breadcrumbs
+    -
+      - system-messages-2991
+    -
+      - system-content-6498
+    -
+      - system-messages-2391
+    -
+      - position-position-5560
+  /footer/:
+    -
+      - 'copyright-7559 50'
+      - 'langswitcher-5789 50'
+  offcanvas:
+    -
+      - 'mobile-menu-5715 94'
+      - 'totop-5604 6'
+structure:
+  header:
+    attributes:
+      boxed: ''
+  navigation:
+    type: section
+    attributes:
+      boxed: ''
+  main:
+    attributes:
+      boxed: ''
+  footer:
+    attributes:
+      boxed: ''
+content:
+  position-header:
+    attributes:
+      enabled: 0
+      key: header
+  branding-8247:
+    attributes:
+      enabled: 0
+  logo-5273:
+    attributes:
+      url: ''
+      target: _self
+      image: 'gantry-media://g5_hydrogen/logo-GS-3.png'
+      height: ''
+      link: '1'
+      svg: ''
+      text: 'Green System'
+  menu-5398:
+    attributes:
+      menu: ''
+      base: /
+      startLevel: '1'
+      maxLevels: '9'
+      renderTitles: '1'
+      hoverExpand: '1'
+      mobileTarget: '1'
+      forceTarget: '1'
+  position-breadcrumbs:
+    attributes:
+      key: breadcrumbs
+  position-position-5560:
+    title: 'Module Position'
+    attributes:
+      key: module-position
+  copyright-7559:
+    attributes:
+      date:
+        start: '2010'
+        end: '2019'
+      owner: 'Green System Solutions'
+  langswitcher-5789:
+    title: 'Language Switcher'
+  totop-5604:
+    title: 'Lên đỉnh'
