@@ -1,6 +1,6 @@
 ---
 title: '4 Product Management Mistakes That Will Drive You Crazy'
-date: '26-09-2018 18:20'
+date: '26-09-2018 18:21'
 ---
 
 One of the hardest things I had to do when first getting started with my business was getting organized. Not having an MBA, the first year of leading my startup was the most hectic as well as the biggest ego buster of my life. However, after startup life punched me in the face, I took a step back and realized the importance for me and every other founder to learn basic product management skills.
